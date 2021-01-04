@@ -57,11 +57,10 @@ for example : `Toys & Games › Learning & Education › Electronic Learning Pro
 
 ## Deployed Web Scrapers
 
-All 3 Web Scraper is automatically running by using Cronjob.
+2 Web Scraper is automatically running by using Cronjob everyweek.
 
 - [Rakuten](https://sm.rakuten.co.jp/)
 - [BigC](https://www.bigc.co.th/)
-- [Amazon](https://www.amazon.com/)
 
 
 ## Couple things to note
